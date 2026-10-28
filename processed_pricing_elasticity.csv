@@ -1,0 +1,7 @@
+price_point_usd,projected_unit_demand,legacy_total_cost_per_unit,nexus_optimized_total_cost_per_unit,legacy_net_margin_per_unit,legacy_total_profit,nexus_net_margin_per_unit,nexus_total_profit
+2500,120,1300,760,1200,144000,1740,208800
+2200,165,1300,760,900,148500,1440,237600
+1950,230,1300,760,650,149500,1190,273700
+1750,340,1300,760,450,153000,990,336600
+1500,490,1300,760,200,98000,740,362600
+1350,680,1300,760,50,34000,590,401200

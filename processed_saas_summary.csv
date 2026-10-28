@@ -1,0 +1,11 @@
+tool_name,department,monthly_cost_usd,total_seats_paid,active_seats_utilized,is_redundant,nexus_arch_replacement,replacement_monthly_cost,annual_waste_usd,ghost_seats,seat_utilization_rate
+Enterprise CRM Tier,Sales,4500,50,18,1,Lightweight API CRM,250,51000,32,36.0
+Legacy Landing Page Builder,Marketing,1200,15,4,1,Native Static Web + Hosting,20,14160,11,26.666666666666668
+Project Mgmt Tool A,Operations,800,40,38,0,Unified Ops Workspace,200,7200,2,95.0
+Project Mgmt Tool B,Product,950,35,12,1,Unified Ops Workspace,0,11400,23,34.285714285714285
+Overpriced SEO Suite,Marketing,1100,10,3,1,Open-Source/Lightweight SEO,50,12600,7,30.0
+Form & Survey SaaS,Sales,450,20,8,1,Native API Form Handlers,10,5280,12,40.0
+Email Marketing Enterprise Tier,Marketing,3200,25,10,0,Tier-Optimized Marketing Stack,400,33600,15,40.0
+Customer Support Desk SaaS,Support,2100,30,28,0,Unified Support Stack,300,21600,2,93.33333333333333
+Analytics Dashboard SaaS,Executive,1500,12,4,1,Custom Python/Tableau Dashboard,0,18000,8,33.33333333333333
+Document E-Sign Suite,Legal/Ops,600,15,6,0,Native E-Sign Integration,50,6600,9,40.0
